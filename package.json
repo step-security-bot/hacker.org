@@ -8,7 +8,7 @@
   "main": "index.js",
   "author": "Entkenntnis <hack@arrrg.de>",
   "dependencies": {
-    "@entkenntnis/challenges-server": "0.3.2",
+    "@entkenntnis/challenges-server": "2.4.3",
     "bcryptjs": "^2.4.3",
     "sentencer": "^0.2.1"
   }
